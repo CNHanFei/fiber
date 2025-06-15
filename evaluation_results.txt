@@ -1,0 +1,81 @@
+Class 0 - Accuracy: 0.9595, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.3709, AUPR: 0.0355
+Class 1 - Accuracy: 0.9392, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5084, AUPR: 0.0898
+Class 2 - Accuracy: 0.9527, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.8490, AUPR: 0.3264
+Class 3 - Accuracy: 0.9189, Precision: 1.0000, Recall: 0.0769, F1: 0.1429, AUC: 0.6860, AUPR: 0.2259
+Class 4 - Accuracy: 0.8108, Precision: 0.6667, Recall: 0.3529, F1: 0.4615, AUC: 0.7508, AUPR: 0.5984
+Class 5 - Accuracy: 0.6149, Precision: 0.2000, Recall: 0.0392, F1: 0.0656, AUC: 0.5646, AUPR: 0.3951
+Class 6 - Accuracy: 0.7230, Precision: 0.5738, Recall: 0.7000, F1: 0.6306, AUC: 0.7788, AUPR: 0.6195
+Class 0 - Accuracy: 0.9527, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.6900, AUPR: 0.1059
+Class 1 - Accuracy: 0.9662, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.8403, AUPR: 0.1234
+Class 2 - Accuracy: 0.8986, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.8113, AUPR: 0.3307
+Class 3 - Accuracy: 0.8919, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7179, AUPR: 0.1680
+Class 4 - Accuracy: 0.7095, Precision: 0.5909, Recall: 0.5098, F1: 0.5474, AUC: 0.6978, AUPR: 0.6867
+Class 5 - Accuracy: 0.5811, Precision: 0.3286, Recall: 0.6053, F1: 0.4259, AUC: 0.6043, AUPR: 0.2952
+Class 6 - Accuracy: 0.6959, Precision: 0.8148, Recall: 0.3548, F1: 0.4944, AUC: 0.8494, AUPR: 0.7948
+Class 0 - Accuracy: 0.9527, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.6424, AUPR: 0.2536
+Class 1 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7587, AUPR: 0.0824
+Class 2 - Accuracy: 0.9797, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7218, AUPR: 0.0695
+Class 3 - Accuracy: 0.8378, Precision: 0.3636, Recall: 0.1905, F1: 0.2500, AUC: 0.7030, AUPR: 0.3702
+Class 4 - Accuracy: 0.7973, Precision: 0.8421, Recall: 0.3721, F1: 0.5161, AUC: 0.7785, AUPR: 0.7024
+Class 5 - Accuracy: 0.3986, Precision: 0.2870, Recall: 0.7209, F1: 0.4106, AUC: 0.5096, AUPR: 0.3023
+Class 6 - Accuracy: 0.7500, Precision: 0.7500, Recall: 0.5593, F1: 0.6408, AUC: 0.8109, AUPR: 0.7896
+Class 0 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.4896, AUPR: 0.0702
+Class 1 - Accuracy: 0.9595, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.4507, AUPR: 0.0423
+Class 2 - Accuracy: 0.9392, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7762, AUPR: 0.3919
+Class 3 - Accuracy: 0.8514, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.6477, AUPR: 0.1992
+Class 4 - Accuracy: 0.7365, Precision: 0.6389, Recall: 0.4694, F1: 0.5412, AUC: 0.7015, AUPR: 0.6785
+Class 5 - Accuracy: 0.6081, Precision: 0.3077, Recall: 0.2791, F1: 0.2927, AUC: 0.5703, AUPR: 0.3830
+Class 6 - Accuracy: 0.7432, Precision: 0.7000, Recall: 0.5185, F1: 0.5957, AUC: 0.7884, AUPR: 0.6834
+Class 0 - Accuracy: 0.9662, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7580, AUPR: 0.0899
+Class 1 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5573, AUPR: 0.1139
+Class 2 - Accuracy: 0.9527, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.9108, AUPR: 0.3903
+Class 3 - Accuracy: 0.8919, Precision: 1.0000, Recall: 0.0588, F1: 0.1111, AUC: 0.5779, AUPR: 0.2047
+Class 4 - Accuracy: 0.7027, Precision: 0.5957, Recall: 0.5283, F1: 0.5600, AUC: 0.6810, AUPR: 0.7005
+Class 5 - Accuracy: 0.6757, Precision: 0.4516, Recall: 0.3111, F1: 0.3684, AUC: 0.6658, AUPR: 0.4431
+Class 6 - Accuracy: 0.7162, Precision: 0.7143, Recall: 0.2941, F1: 0.4167, AUC: 0.7936, AUPR: 0.6127
+Class 0 - Accuracy: 0.9595, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5904, AUPR: 0.1286
+Class 1 - Accuracy: 0.9392, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.6595, AUPR: 0.2448
+Class 2 - Accuracy: 0.9392, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.6507, AUPR: 0.1720
+Class 3 - Accuracy: 0.8649, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7160, AUPR: 0.4060
+Class 4 - Accuracy: 0.7635, Precision: 0.5000, Recall: 0.6286, F1: 0.5570, AUC: 0.7252, AUPR: 0.6495
+Class 5 - Accuracy: 0.6959, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5946, AUPR: 0.3916
+Class 6 - Accuracy: 0.7297, Precision: 0.6176, Recall: 0.7500, F1: 0.6774, AUC: 0.8193, AUPR: 0.7384
+Class 0 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5660, AUPR: 0.0395
+Class 1 - Accuracy: 0.9865, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7021, AUPR: 0.0514
+Class 2 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5052, AUPR: 0.0441
+Class 3 - Accuracy: 0.8649, Precision: 0.6667, Recall: 0.0952, F1: 0.1667, AUC: 0.7015, AUPR: 0.3942
+Class 4 - Accuracy: 0.7838, Precision: 0.5312, Recall: 0.5000, F1: 0.5152, AUC: 0.6852, AUPR: 0.5833
+Class 5 - Accuracy: 0.6554, Precision: 0.4400, Recall: 0.2292, F1: 0.3014, AUC: 0.5273, AUPR: 0.3849
+Class 6 - Accuracy: 0.7230, Precision: 0.6349, Recall: 0.6897, F1: 0.6612, AUC: 0.7925, AUPR: 0.7642
+Class 0 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.8819, AUPR: 0.2985
+Class 1 - Accuracy: 0.9459, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.8098, AUPR: 0.2033
+Class 2 - Accuracy: 0.9392, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7778, AUPR: 0.1539
+Class 3 - Accuracy: 0.9054, Precision: 0.5000, Recall: 0.0714, F1: 0.1250, AUC: 0.7607, AUPR: 0.2915
+Class 4 - Accuracy: 0.7432, Precision: 0.9444, Recall: 0.3148, F1: 0.4722, AUC: 0.6653, AUPR: 0.6516
+Class 5 - Accuracy: 0.7432, Precision: 0.5714, Recall: 0.1026, F1: 0.1739, AUC: 0.6676, AUPR: 0.3903
+Class 6 - Accuracy: 0.7365, Precision: 0.6458, Recall: 0.9254, F1: 0.7607, AUC: 0.8627, AUPR: 0.8101
+Class 0 - Accuracy: 0.9459, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.5339, AUPR: 0.0817
+Class 1 - Accuracy: 0.9459, Precision: 0.2500, Recall: 0.1667, F1: 0.2000, AUC: 0.6984, AUPR: 0.2735
+Class 2 - Accuracy: 0.9730, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.9323, AUPR: 0.4545
+Class 3 - Accuracy: 0.8514, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.6569, AUPR: 0.2586
+Class 4 - Accuracy: 0.8514, Precision: 0.8333, Recall: 0.5263, F1: 0.6452, AUC: 0.7844, AUPR: 0.7226
+Class 5 - Accuracy: 0.6689, Precision: 0.4000, Recall: 0.4500, F1: 0.4235, AUC: 0.6588, AUPR: 0.4247
+Class 6 - Accuracy: 0.7770, Precision: 0.7561, Recall: 0.5741, F1: 0.6526, AUC: 0.8339, AUPR: 0.7106
+Class 0 - Accuracy: 0.9797, Precision: 1.0000, Recall: 0.2500, F1: 0.4000, AUC: 0.6528, AUPR: 0.2821
+Class 1 - Accuracy: 0.9662, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7105, AUPR: 0.0643
+Class 2 - Accuracy: 0.9662, Precision: 0.0000, Recall: 0.0000, F1: 0.0000, AUC: 0.7301, AUPR: 0.1141
+Class 3 - Accuracy: 0.8649, Precision: 0.3333, Recall: 0.1111, F1: 0.1667, AUC: 0.6278, AUPR: 0.1897
+Class 4 - Accuracy: 0.8514, Precision: 0.7200, Recall: 0.5455, F1: 0.6207, AUC: 0.7618, AUPR: 0.6959
+Class 5 - Accuracy: 0.6824, Precision: 0.4375, Recall: 0.1556, F1: 0.2295, AUC: 0.5879, AUPR: 0.3876
+Class 6 - Accuracy: 0.6757, Precision: 0.6500, Recall: 0.4333, F1: 0.5200, AUC: 0.7932, AUPR: 0.7040
+
+-----------------------Final Result-----------------------
+Chromatin - AUC: 0.6176, AUPR: 0.1386
+Nucleoplasm - AUC: 0.6696, AUPR: 0.1289
+Nucleolus - AUC: 0.7665, AUPR: 0.2447
+Membrane - AUC: 0.6795, AUPR: 0.2708
+Nucleus - AUC: 0.7232, AUPR: 0.6669
+Cytosol - AUC: 0.5951, AUPR: 0.3798
+Cytoplasm - AUC: 0.8123, AUPR: 0.7227
+
+Average AUC: 0.6948, Average AUPR: 0.3646
